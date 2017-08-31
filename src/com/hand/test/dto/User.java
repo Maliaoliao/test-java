@@ -8,7 +8,9 @@ public class User {
     private String id;
 
     private String name;
-
+    //这是我在github上面提交的代码
+    private String a;
+    
     public String getId() {
         return id;
     }
