@@ -7,7 +7,7 @@ public class User {
 
     //这是我在页面github上面写的注释
     private String id;
-
+    //这是我在idea中写的注释
     private String name;
 
     public String getId() {
