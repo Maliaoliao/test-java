@@ -9,7 +9,7 @@ public class User {
     private String id;
     //这是我在idea中写的注释
     private String name;
-
+    //这是注释
     public String getId() {
         return id;
     }
